@@ -2,7 +2,7 @@
 GraphQL implementation example with Django
 
 
-##Install
+## Install
 
 Run
 
